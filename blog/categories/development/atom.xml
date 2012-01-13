@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sanjay A K]]></title>
-  <link href="http://sanjaykavatakoppa.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Development | Sanjay A K]]></title>
+  <link href="http://sanjaykavatakoppa.github.com/blog/categories/development/atom.xml" rel="self"/>
   <link href="http://sanjaykavatakoppa.github.com/"/>
   <updated>2012-01-13T16:10:32+05:30</updated>
   <id>http://sanjaykavatakoppa.github.com/</id>
